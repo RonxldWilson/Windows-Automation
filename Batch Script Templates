@@ -6,6 +6,20 @@ REM This is also a comment in batch AKA Remark
 
 echo This is used to give the output to the command line
 
+:: the following command is used to give timeout in the code
+
+:: This is a timeout of 10 Seconds after which it will quit proceed to the next command
+timeout /t 10 
+
+:: assignment of a value to a variable is done like this
+
+set "Variable=Value"
+
+echo %Variable% ::This is how you use a variable
+
+:: Setting of a variable using a 'set' keyword will result in creation of the variable
+
+#############################################
 
 
 
