@@ -1,5 +1,11 @@
 @echo off 
-echo Starting the Runtime Script .....
+
+:: This is how you give comments in Batch
+
+REM This is also a comment in batch AKA Remark
+
+echo This is used to give the output to the command line
+
 
 
 
